@@ -1,1 +1,1 @@
-﻿This is a README (edited twice)
+﻿This is a README (edited)
